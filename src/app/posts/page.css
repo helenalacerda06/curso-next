@@ -3,3 +3,21 @@
     background: #c1bfbf;
     padding: 5px
 }
+
+.input{
+    border-color: #fff;
+    height: 20px;
+}
+
+.button{
+    background: #3e45ca;
+    color: #fff;
+}
+
+.form{
+    margin: 10px;
+}
+
+.link{
+    color: #3e45ca;
+}
